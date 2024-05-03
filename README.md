@@ -1,7 +1,7 @@
 # Overview
 Analysis file of the game software "キューブクリエイターdx: Cube Creator dx" for Nintendo 3DS. 
-[!WARNING]
-These descriptions may contain my errors. Do not believe everything you read. If there are any, I would appreciate it if you could let me know in the issue
+> [!WARNING]
+> These descriptions may contain my errors. Do not believe everything you read. If there are any, I would appreciate it if you could let me know in the issue
 
 # Important
 All rights reserved by ArkSystemWorks, the production company of cube creator dx. These files are not an aid or abetment to crime.
