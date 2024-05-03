@@ -12,7 +12,7 @@ All rights reserved by ArkSystemWorks, the production company of cube creator dx
 * https://133-32-217-18.east.xps.vectant.ne.jp/
 ### parameter
 | Name | Value |
-| ---- | ---- |
+| ---- | :--: |
 | CID | 1 |
 | PID | 2 |
 | sid | 1 |
