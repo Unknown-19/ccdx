@@ -11,13 +11,13 @@ All rights reserved by ArkSystemWorks, the production company of cube creator dx
 * https://ec2-34-208-166-202.us-west-2.compute.amazonaws.com/
 * https://133-32-217-18.east.xps.vectant.ne.jp/
 ### parameter
-|Name|Value|
-|:--|--:|:--:|
-|CID|1|
-|PID|2|
-|sid|1|
-|steam|10|
-|type|2|
+| Name | Value |
+| ---- | ---- |
+| CID | 1 |
+| PID | 2 |
+| sid | 1 |
+| steam | 10 |
+| type | 2 |
 
 # code.bin
 NG words are managed in txt files
