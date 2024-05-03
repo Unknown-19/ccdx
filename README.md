@@ -19,6 +19,9 @@ All rights reserved by ArkSystemWorks, the production company of cube creator dx
 | sid | 1 |
 | steam | 10 |
 | type | 2 |
+| natf | 2 |
+| natm | 1 |
+
 
 # code.bin
 NG words are managed in txt files
