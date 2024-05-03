@@ -13,6 +13,7 @@ All rights reserved by ArkSystemWorks, the production company of cube creator dx
 ### parameter
 | Name | Value |
 | ---- | :--: |
+| scheme | prudps |
 | CID | 1 |
 | PID | 2 |
 | sid | 1 |
