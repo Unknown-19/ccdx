@@ -6,7 +6,7 @@ Analysis file of the game software "キューブクリエイターdx: Cube Creat
 # Important
 All rights reserved by ArkSystemWorks, the production company of cube creator dx. These files are not an aid or abetment to crime.
 
-# Server
+# Server(WIP)
 ### Endpoints
 * https://ec2-34-208-166-202.us-west-2.compute.amazonaws.com/
 * https://133-32-217-18.east.xps.vectant.ne.jp/
@@ -23,7 +23,7 @@ All rights reserved by ArkSystemWorks, the production company of cube creator dx
 | natm | 1 |
 
 
-# code.bin
+# code.bin(WIP)
 NG words are managed in txt files
 
 # To Arc System Works, Inc.
