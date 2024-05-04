@@ -8,7 +8,8 @@ All rights reserved by ArkSystemWorks, the production company of cube creator dx
 
 # structure
 ## Directory structure
-## 
+
+https://github.com/Unknown-19/ccdx/blob/main/directory.md
 
 ## Server(WIP)
 ### Endpoints
