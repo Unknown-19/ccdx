@@ -11,6 +11,9 @@ All rights reserved by ArkSystemWorks, the production company of cube creator dx
 [directory.md](https://github.com/Unknown-19/ccdx/blob/main/directory.md
 )
 
+# Game
+### ItemId
+
 ## Server(WIP)
 ### Endpoints
 * https://ec2-34-208-166-202.us-west-2.compute.amazonaws.com/
