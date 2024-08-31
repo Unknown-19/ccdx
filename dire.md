@@ -845,7 +845,6 @@
 ./RomFS/res/model/world/sky/cloud.rwt
 ./RomFS/res/model/world/sky/sky.anm
 ./RomFS/res/model/world/sky/sky.mdl
-./RomFS/res/model/a
 ./RomFS/res/NewWorldMenuBtm.ndb
 ./RomFS/res/Option
 ./RomFS/res/Option/Option.rwt
